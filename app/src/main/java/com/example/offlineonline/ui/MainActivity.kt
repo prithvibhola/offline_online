@@ -1,7 +1,8 @@
-package com.example.offlineonline
+package com.example.offlineonline.ui
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.example.offlineonline.R
 
 class MainActivity : AppCompatActivity() {
 
